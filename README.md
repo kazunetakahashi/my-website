@@ -1,2 +1,2 @@
 # my-website
-私のWebページ
+私のWebサイト
